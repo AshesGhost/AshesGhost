@@ -2,7 +2,7 @@
 <div align="center">
 
 ```
-______/\\\\\\\\\\\\__/\\\_________        
+_____/\\\\\\\\\\\\__/\\\_________        
  ___/\\\//////////__\/\\\_________       
   __/\\\_____________\/\\\_________      
    _\/\\\____/\\\\\\\_\/\\\_________     
@@ -75,16 +75,18 @@ drwxr-xr-x  toolbox/
 |-----------|-------------|--------|
 | 🐺 [**jackalSploit**](https://github.com/AshesGhost/jackalSploit) | Exploitation & hacking tool | `Active` |
 | 🌐 [**Gh**](https://rootwolfdev.github.io/WolfSite/) | Personal web presence | `Live` |
-| ++ [**see more..**](https://github.com/AshesGhost?tab=repositories) |/////////////////|////////|
+| ++ [**see more**](https://rootwolfdev.github.io/WolfSite/) |/////////////////|////////|
 
 ---
 
 ## `$ ping -c 1 contact`
 
 <div align="center">
+
 [![Website](https://img.shields.io/badge/GHOST-GhWebsite-00ff00?style=for-the-badge&logo=ghost)](https://ashesghost.github.io/Gh-WebSite)
 [![GitHub](https://img.shields.io/badge/GitHub-AshesGhost-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshesGhost)
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-IdeaMe😊​-C49A1A?style=for-the-badge)](https://AshesGhost.github.io/IdeaMe/)
+
 
 </div>
 

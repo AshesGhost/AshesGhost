@@ -82,8 +82,7 @@ drwxr-xr-x  toolbox/
 ## `$ ping -c 1 contact`
 
 <div align="center">
-
-[![Website](https://img.shields.io/badge/Website-rootwolfdev-00ff41?style=for-the-badge&logo=firefox&logoColor=white)](https://rootwolfdev.github.io/WolfSite/)
+[![Website](https://img.shields.io/badge/GHOST-GhWebsite-00ff00?style=for-the-badge&logo=ghost)](https://ashesghost.github.io/Gh-WebSite)
 [![GitHub](https://img.shields.io/badge/GitHub-AshesGhost-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshesGhost)
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-IdeaMe😊​-C49A1A?style=for-the-badge)](https://AshesGhost.github.io/IdeaMe/)
 

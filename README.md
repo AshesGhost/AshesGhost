@@ -85,6 +85,7 @@ drwxr-xr-x  toolbox/
 
 [![Website](https://img.shields.io/badge/Website-rootwolfdev-00ff41?style=for-the-badge&logo=firefox&logoColor=white)](https://rootwolfdev.github.io/WolfSite/)
 [![GitHub](https://img.shields.io/badge/GitHub-AshesGhost-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshesGhost)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-IdeaMe😊​-C49A1A?style=for-the-badge)](https://AshesGhost.github.io/IdeaMe/)
 
 </div>
 
